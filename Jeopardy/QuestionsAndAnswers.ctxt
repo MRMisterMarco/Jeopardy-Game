@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=QuestionsAndAnswers
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=answer
+comment11.target=boolean\ correctAnswer(int)
+comment2.params=
+comment2.target=QuestionsAndAnswers()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ QuestionsAndAnswers\r\n
+comment3.params=prompt\ answer
+comment3.target=QuestionsAndAnswers(java.lang.String,\ java.lang.String[])
+comment4.params=
+comment4.target=java.lang.String\ getPrompt()
+comment5.params=
+comment5.target=java.lang.String[]\ getAnswer()
+comment6.params=
+comment6.target=int\ getValue()
+comment7.params=prompt
+comment7.target=void\ setPrompt(java.lang.String)
+comment8.params=answer
+comment8.target=void\ setAnswer(java.lang.String[])
+comment9.params=value
+comment9.target=void\ setValue(int)
+numComments=12
